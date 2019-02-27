@@ -13,4 +13,5 @@ Short Description:
 First try to export WebGL.
 
 ShareMyGame Link:
-https://www.sharemygame.com/share/5af8fda0-31ea-49f1-bd11-2945c0d4345a (bis zum 22.03.2019 verfügbar)
+https://www.sharemygame.com/share/5af8fda0-31ea-49f1-bd11-2945c0d4345a 
+(verfügbar bis zum 22.03.2019)
